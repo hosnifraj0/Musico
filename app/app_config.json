@@ -1,0 +1,8 @@
+{
+  "minSdkVersion": 21,
+  "libraries": "[]",
+  "useR8": false,
+  "targetSdkVersion": 30,
+  "versionName": "1.0",
+  "versionCode": 1
+}
